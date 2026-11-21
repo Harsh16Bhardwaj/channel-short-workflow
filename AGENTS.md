@@ -1,0 +1,16 @@
+# Operating contract
+
+Scope: one owner-selected topic through a finished local short. The user's current directions take precedence. Read WORKFLOW.md and STYLE.md once; use templates and renderer instructions as needed. Do not recursively read every file or seek old episode history.
+
+- Produce one independently checked Hindi script; choose shots and continue directly through final images and movie. No three-script requirement, alternate-board pack or storyboard approval pause.
+- Research only claims the story needs. Distinguish the named text/version, later retelling, historical evidence and interpretation. Never turn symbolism or a paraphrase into a literal scriptural event/quotation.
+- Tell a causal spoken story: person/situation → pressure → choice → consequence → earned reflection. Use clear pronouns and connections. Let comprehension determine duration; timings are EST until actual narration is aligned.
+- No image quota or rapid-cut target. Every composition must add a story event, context, consequence or meaningful contrast. No second angle of the same event simply for variety; do not collapse distinct beats into one long hold to save calls.
+- Only approved layered cut paper T02 or embroidered textile T04. The handler chooses per run. Use supplied actual reference images; inspect them before generation. Missing references must be reported, not described as exact matching.
+- Generate actual finished art. No schematic placeholders represented as deliverables. Preserve character identity and anatomy; no puppet hinges, body wobble, sliding walks or body deformation. Prefer gentle rigid camera motion and masked environmental effects away from people and captions.
+- Retain three independent quality gates: (1) source/script/shot meaning before generation, (2) actual images/masks before encode, (3) sampled encoded output after encode. One reviewer can cover all gates in separate scoped passes. Delegate to a reviewer when available; if independent review is unavailable, report that limitation and label your self-review honestly. Never manufacture a separate reviewer identity or PASS.
+- Batch related inputs at each gate. Inspect every actual composition; sample motion within shots and joins. Fix only blockers, and recheck only affected items. Do not rerun unchanged research, full audits, rendering or tests.
+- No new spending, paid fallback, credit-consuming editor integrations, voice synthesis, uploads, publication or account changes unless explicitly requested. Use the environment's built-in image tool when available. Local zero-cost dependencies are permitted. Cleared audio needs actual licence evidence; silence is acceptable when audio cannot be cleared.
+- Keep context/references, generated assets and run records local under ignored folders. Never commit them to the workflow repository.
+- Report only observed facts: generation calls, repairs, checks, output paths and limitations. Metering is not listening; sampled review is not continuous playback; delivery is not owner creative approval.
+- Continue autonomously through reversible production steps. Ask only for essential missing inputs/capabilities or genuine ambiguity that would change the story. A plan or prompt list is not a finished movie.

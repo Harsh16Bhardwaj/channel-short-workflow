@@ -1,0 +1,9 @@
+{
+  "reviewer": "REPLACE with actual reviewer identity",
+  "verdict": "PENDING",
+  "scope": "Actual images and fitted motion-zone sheet",
+  "mask_hash": "REPLACE with current motion/masks.json SHA256",
+  "image_hashes": { "SH001": "REPLACE with actual image SHA256" },
+  "findings": [],
+  "performed_checks": []
+}

@@ -1,0 +1,11 @@
+{
+  "note": "REPLACE rectangles after inspecting fitted actual art. Values are normalized x0,y0,x1,y1; these examples are not reviewed masks.",
+  "shots": {
+    "SH001": {
+      "protected_boxes": [[0.2, 0.3, 0.8, 0.9]],
+      "effect_zones": [[0.0, 0.0, 1.0, 0.25]]
+    }
+  },
+  "audio": {},
+  "subtitle_font": "Nirmala UI"
+}
